@@ -1,7 +1,7 @@
 # PCA-WORKBOOK
 
 ## Aug 6th:
-Watched Principal Component Analysis Step by Step video https://youtu.be/a_J_pd_j2jY
+Watched Principal Component Analysis Step by Step video https://www.youtube.com/watch?v=FgakZw6K1QQ
 
 ## Aug 8th:
 Learnt about Eigen vectors and Eigen Values
